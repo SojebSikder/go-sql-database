@@ -1,6 +1,6 @@
 # Description
 
-Database engine created with golang
+SQL Database engine created with golang
 
 # Usage
 
@@ -26,4 +26,7 @@ SQL> SELECT FROM users
 Data from table: users
 [Sojeb 24]
 [Sikder 30]
+SQL> SELECT FROM users WHERE age 24
+Filtered data from table: users
+[Sojeb 24]
 ```

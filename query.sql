@@ -1,0 +1,4 @@
+CREATE TABLE users name age;
+INSERT INTO users VALUES Sojeb 24;
+INSERT INTO users VALUES Sikder 30;
+SELECT FROM users
