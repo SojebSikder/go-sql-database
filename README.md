@@ -4,10 +4,15 @@ SQL Database engine created with golang
 
 # Usage
 
-Running the database
+Run queries from file
+```
+go run main.go run query.sql
+```
+
+Run the database cli
 
 ```
-go run .
+go run main.go cli
 ```
 
 Example Queries
